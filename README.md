@@ -2,19 +2,23 @@
 
 <details> 
   
+<summary>Python</summary>
+  
+
+<details> 
+  
 <summary><a href="https://www.youtube.com/playlist?list=PLSHvUrpSpVBC2O0E8rYddPsyj_mswW1Ev">Code Club Day</a></summary>
 
 Covers operators, input and output operations, and control statements.
 
 </details>
-
----
-
-- [Coding Shiksha](https://www.youtube.com/playlist?list=PL3CDD0Jz5nVEplyxcH2B6qpDqOgY1ot4W)
+<details> 
+  
+<summary><a href="https://www.youtube.com/playlist?list=PL3CDD0Jz5nVEplyxcH2B6qpDqOgY1ot4W">Coding Shiksha</a></summary>
 
 18 videos starting with variables, numbers, casting, stings and ending with classes, iterators, and modules.
 
----
+</details>
 
 - [Conceptual Learning of Python](https://www.youtube.com/playlist?list=PL_XKJISIlenvV92BvNXWGdB2aN6cO63Oj)
 
@@ -103,7 +107,10 @@ Complete Tutorials for Python Based on Topic Basic , File Handling , Web Scrapin
 - [The New Boston](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA)
 
 Here is all of my Python Programming high quality tutorials!
-______________________________________________________________________________________________________________________________
+  
+---
+  
 - [WebDevPro](https://www.youtube.com/playlist?list=PLfyXUgjpxUVFE76qCwFsIwOzB1wzACn4f)
 
-______________________________________________________________________________________________________________________________
+  
+</details>
