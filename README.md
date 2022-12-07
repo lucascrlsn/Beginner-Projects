@@ -1,4 +1,4 @@
-# Resources - This is a test
+# Resources 
 
 <details> 
   
