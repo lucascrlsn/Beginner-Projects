@@ -42,12 +42,13 @@ For the difference between Threading and Multi-Processing try [this video](https
 Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. See [kivy.org](https://kivy.org/#home) for more information. I have tried learing KivyMD first but it appears it is better to start with Kivy.
 
 </details>
-
----
-
-[Kivy Quickly](https://www.youtube.com/playlist?list=PLy5hjmUzdc0mSl1d8dHBtk1730deh7rKX): 6 Videos
+<details> 
+  
+<summary><a href="https://www.youtube.com/playlist?list=PLy5hjmUzdc0mSl1d8dHBtk1730deh7rKX">Kivy Quickly</a></summary>
 
 [KivyMD](https://www.youtube.com/playlist?list=PLy5hjmUzdc0nMkzhphsqgPCX62NFhkell): 16 Videos
+
+</details>
 
 ---
 
