@@ -26,21 +26,24 @@ Covers operators, input and output operations, and control statements.
 No additional details exist for this record. If you have used this resource share your thoughts!
 
 </details>
-
----
-
-- [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+<details> 
+  
+<summary><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Corey Schafer</a></summary>
 
 In these Python Beginner Tutorials, we will be learning the fundamentals of Python programming from the ground up. We will be learning how to: install/setup Python on Mac and Windows, work with basic data types, write conditionals, write for/while loops, write functions, import modules, and explore the standard library.
 
 For the difference between Threading and Multi-Processing try [this video](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 
+</details>
+<details> 
+  
+<summary><a href="https://www.youtube.com/channel/UCMMitT9SCbWlEcEkemnsxQg">Eric Sandberg</a></summary>
+
+Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. See [kivy.org](https://kivy.org/#home) for more information. I have tried learing KivyMD first but it appears it is better to start with Kivy.
+
+</details>
+
 ---
-
-- [Eric Sandberg](https://www.youtube.com/channel/UCMMitT9SCbWlEcEkemnsxQg)
-
-Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. See [kivy.org](https://kivy.org/#home) for more information. I have tried learing KivyMD first but it appears it is better to start with Kivy. 
-
 
 [Kivy Quickly](https://www.youtube.com/playlist?list=PLy5hjmUzdc0mSl1d8dHBtk1730deh7rKX): 6 Videos
 
