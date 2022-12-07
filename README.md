@@ -1,6 +1,8 @@
 # Resources
 
-<details open><summary><a href="https://www.youtube.com/playlist?list=PLSHvUrpSpVBC2O0E8rYddPsyj_mswW1Ev">Code Club Day</a></summary>
+<details> 
+  
+<summary><a href="https://www.youtube.com/playlist?list=PLSHvUrpSpVBC2O0E8rYddPsyj_mswW1Ev">Code Club Day</a></summary>
 
 Covers operators, input and output operations, and control statements.
 
