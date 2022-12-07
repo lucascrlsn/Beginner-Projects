@@ -19,8 +19,13 @@ Covers operators, input and output operations, and control statements.
 18 videos starting with variables, numbers, casting, stings and ending with classes, iterators, and modules.
 
 </details>
+<details> 
+  
+<summary><a href="https://www.youtube.com/playlist?list=PL_XKJISIlenvV92BvNXWGdB2aN6cO63Oj">Conceptual Learning of Python</a></summary>
 
-- [Conceptual Learning of Python](https://www.youtube.com/playlist?list=PL_XKJISIlenvV92BvNXWGdB2aN6cO63Oj)
+No additional details exist for this record. If you have used this resource share your thoughts!
+
+</details>
 
 ---
 
